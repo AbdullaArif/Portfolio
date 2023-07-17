@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ZRYKbnqryPQCMG5ep2I/OMmq5Fgz3WOnmKqcm7tvpUY=",
+  "Source": "Portfolio",
+  "BasePath": "_content/Portfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio\\wwwroot",
+      "Source": "Portfolio",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Portfolio.styles.css",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Portfolio.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Portfolio.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Portfolio.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css"
+    }
+  ]
+}
