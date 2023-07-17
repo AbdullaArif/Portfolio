@@ -5,6 +5,198 @@
       "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\base\\_body-element.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\base\\_body-element.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\base\\_fonts.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\base\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\base\\_normalize.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\base\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\base\\_selection-colors.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\base\\_selection-colors.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\base\\_vars.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\base\\_vars.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Black.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Black.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Black.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Bold.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Light.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Light.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\fonts\\Montserrat-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Montserrat-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\layouts\\_grid.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\layouts\\_grid.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\main.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\main.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_about.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_about.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_contact.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_contact.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_device-notification.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_device-notification.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_header.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_header.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_hire.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_hire.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_intro.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_intro.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_outer-nav.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_outer-nav.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_section.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_section.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_side-nav.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_side-nav.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\modules\\_work.sass",
+      "PackagePath": "staticwebassets\\assets\\css\\modules\\_work.sass"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\about-history.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-history.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\about-philosophy.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-philosophy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\about-visual.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-visual.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\about-winners.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-winners.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\contact-visual.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-visual.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\introduction-visual.png",
+      "PackagePath": "staticwebassets\\assets\\img\\introduction-visual.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\work-alex-nowak.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-alex-nowak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\work-metiew-smith.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-metiew-smith.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\work-victory.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-victory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\js\\functions-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\functions-min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\js\\functions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\js\\vendor\\hammer-2.0.8.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\hammer-2.0.8.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
