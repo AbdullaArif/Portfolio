@@ -18,3 +18,8 @@
 h31 {
     margin-top: 10px;
 }
+.container1 {
+    width: 100%;
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
