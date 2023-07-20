@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4T5ZYmc6p9gIcU+O5Pj/9o7fksWPcW3nHyYgBpyDlIQ=",
+  "Hash": "LDOj6Hnel3O9kQNTsCYd7tLcpkxV49+w5Q4Q//mvpME=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -2497,6 +2497,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logo_aztu.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "assets/img/logo_aztu.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logo_aztu.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\work-alex-nowak.jpg",
