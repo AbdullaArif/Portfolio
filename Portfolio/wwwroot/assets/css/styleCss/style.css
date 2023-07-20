@@ -1,0 +1,20 @@
+.about1 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider--item1 {
+    text-align: center;
+}
+
+.slider--item-image1 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h31 {
+    margin-top: 10px;
+}
