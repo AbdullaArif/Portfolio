@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LDOj6Hnel3O9kQNTsCYd7tLcpkxV49+w5Q4Q//mvpME=",
+  "Hash": "GmDvcM9gHvpZ115qATf/uY0AKa3esdtwuydX7Seb3Go=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -2378,6 +2378,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\modules\\_work.sass"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\css\\styleCss\\style.css",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "assets/css/styleCss/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\styleCss\\style.css"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\about-history.jpg",
