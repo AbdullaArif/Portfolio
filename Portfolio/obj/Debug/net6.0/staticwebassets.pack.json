@@ -557,6 +557,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\styleCss\\style.css"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\CodeAcedmy1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\CodeAcedmy1.jpeg"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\about-history.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about-history.jpg"
     },
@@ -575,6 +579,10 @@
     {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\backraundBaku1.png",
       "PackagePath": "staticwebassets\\assets\\img\\backraundBaku1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\backraundcolor2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\backraundcolor2.png"
     },
     {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\contact-visual.png",
