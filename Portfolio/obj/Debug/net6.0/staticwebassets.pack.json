@@ -589,6 +589,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\logo_aztu.png"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logo_aztu1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo_aztu1.png"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\work-alex-nowak.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\work-alex-nowak.jpg"
     },
