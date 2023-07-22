@@ -162,34 +162,33 @@
                                 <li>sdff</li>
                             </ul><br /><br />
                             <!-- checkout formspree.io for easy form setup -->
-                            <form class="work-request">
-                                <div class="work-request--information">
-                                    <br />
-                                    <div class="information-name">
-                                        <input asp-for="FullName">
-                                        <label asp-for="FullName">Name</label>
-                                        <span asp-validation-for="Message" class="text-danger"></span>
-                                    </div><br />
-                                    <div class="information-name">
-                                        <input asp-for="Email">
-                                        <label asp-for="Email"> Email</label>
-                                        <span asp-validation-for="Message" class="text-danger"></span>
-                                    </div><br />
-                                    <div class="information-name">
-                                        <input asp-for="Phone">
-                                        <label asp-for="Phone">Phone</label>
-                                        <span asp-validation-for="Message" class="text-danger"></span>
-                                    </div><br />
-                                   <div class="information-name">
-                                        <label asp-for="Message"> Message </label>
-                                                <textarea class="form-control" name="Message" asp-for="Message"></textarea>
-                                                <span asp-validation-for="Message" class="text-danger"></span>
-                                    </div><br />
-                                     <div class="text-danger" asp-validation-summary="ModelOnly">
-                                        </div> <br />
-                                </div>
-                                <input type="submit" value="Send Request">
-                            </form>
+                          <form class="work-request1" method="post">
+    <div class="work-request1--information">
+        <br />
+        <div class="information-name1">
+            <input asp-for="FullName">
+            <label asp-for="FullName">Full Name</label>
+            <span asp-validation-for="FullName" class="text-danger1"></span>
+        </div><br />
+        <div class="information-email1">
+            <input asp-for="Email">
+            <label asp-for="Email">Email</label>
+            <span asp-validation-for="Email" class="text-danger1"></span>
+        </div><br />
+        <div class="information-phone1">
+            <input asp-for="Phone">
+            <label asp-for="Phone">Phone</label>
+            <span asp-validation-for="Phone" class="text-danger1"></span>
+        </div><br />
+        <div class="information-message1">
+            <label asp-for="Message">Message</label>
+            <textarea class="form-control" name="Message" asp-for="Message" placeholder="Project Description"></textarea>
+            <span asp-validation-for="Message" class="text-danger1"></span>
+        </div><br />
+        <div class="text-danger1" asp-validation-summary="ModelOnly"></div><br />
+    </div>
+    <input type="submit" value="Send Request">
+</form>
                         </div>
                     </li>
                 </ul>

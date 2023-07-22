@@ -23,3 +23,54 @@ h31 {
     max-width: 1200px; 
     margin: 0 auto; 
 }
+/* Form container */
+.work-request1 {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Form fields and labels */
+.work-request1--information .information-name1 {
+    margin-bottom: 15px;
+}
+
+.work-request1--information label1 {
+    font-weight: bold;
+    display: block;
+}
+
+.work-request1--information input[type="text"],
+.work-request1--information input[type="email"],
+.work-request1--information textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Error messages */
+.work-request1--information .text-danger1 {
+    color: #f00;
+}
+
+/* Submit button */
+.work-request1 input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .work-request1 input[type="submit"]:hover {
+        background-color: #45a049;
+    }
+
+/* Optional: Add some spacing between form fields */
+.work-request1--information {
+    margin-bottom: 20px;
+}
