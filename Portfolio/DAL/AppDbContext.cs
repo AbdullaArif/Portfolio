@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Portfolio.Models;
 
 namespace Portfolio.DAL
 {
@@ -8,5 +9,6 @@ namespace Portfolio.DAL
         {
 
         }
+        public DbSet<Contact> Contacts { get; set; }
     }
 }

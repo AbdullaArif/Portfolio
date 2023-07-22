@@ -18,7 +18,7 @@ namespace Portfolio.Controllers
         {
             return View();
         }
-        public IActionResult Index(Contact contact)
+        public async Task<IActionResult> Index(Contact contact)
         {
             Contact newMessage = new Contact()
             {
@@ -32,7 +32,11 @@ namespace Portfolio.Controllers
                 ModelState.AddModelError(nameof(contact.Email), "Email is required.");
                 return View(contact);
             }
-
+            if (string.IsNullOrEmpty(contact.Message))
+            {
+                ModelState.AddModelError(nameof(contact.Message), "Message is required.");
+                return View(contact);
+            }
             await _context.Contacts.AddAsync(newMessage);
             await _context.SaveChangesAsync();
             return RedirectToAction("Index", "Home");
