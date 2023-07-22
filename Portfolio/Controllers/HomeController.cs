@@ -18,6 +18,7 @@ namespace Portfolio.Controllers
         {
             return View();
         }
+        [HttpPost]
         public async Task<IActionResult> Index(Contact contact)
         {
             Contact newMessage = new Contact()

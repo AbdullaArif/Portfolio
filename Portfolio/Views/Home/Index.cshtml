@@ -129,9 +129,7 @@
                                 <div class="modal">
                                     <div class="modal--information">
                                         <p>Address</p>
-                                        <p>Azerbaijan, Baku</p>
-
-
+                                        <p>Azerbaijan, Baku</p
                                         <p>Phone</p>
                                         <a href="tel:+148126287560">+XX XXX XX XX</a>
                                         <p>Email: arifabdulla034@gmail.com</p>
@@ -142,22 +140,53 @@
                                     </ul>
                                 </div>
                             </div>
+
                         </div>
                     </li>
                     <li class="l-section section">
                         <div class="hire">
                             <h2>You want us to do</h2>
+                            <h3>You want us to do</h3>
+                            <ul>
+                                <li>dfdfsd</li>
+                                <li>sdfsdf</li>
+                                <li>dsfsf</li>
+                                <li>sdfsdf</li>
+                                <li>fsdfs</li>
+                            </ul>
+                            <ul>
+                                <li>sdff</li>
+                                <li>sdff</li>
+                                <li>sdff</li>
+                                <li>sdff</li>
+                                <li>sdff</li>
+                            </ul><br /><br />
                             <!-- checkout formspree.io for easy form setup -->
                             <form class="work-request">
                                 <div class="work-request--information">
+                                    <br />
                                     <div class="information-name">
-                                        <input id="name" type="text" spellcheck="false">
-                                        <label for="name">Name</label>
-                                    </div>
-                                    <div class="information-email">
-                                        <input id="email" type="email" spellcheck="false">
-                                        <label for="email">Email</label>
-                                    </div>
+                                        <input asp-for="FullName">
+                                        <label asp-for="FullName">Name</label>
+                                        <span asp-validation-for="Message" class="text-danger"></span>
+                                    </div><br />
+                                    <div class="information-name">
+                                        <input asp-for="Email">
+                                        <label asp-for="Email"> Email</label>
+                                        <span asp-validation-for="Message" class="text-danger"></span>
+                                    </div><br />
+                                    <div class="information-name">
+                                        <input asp-for="Phone">
+                                        <label asp-for="Phone">Phone</label>
+                                        <span asp-validation-for="Message" class="text-danger"></span>
+                                    </div><br />
+                                   <div class="information-name">
+                                        <label asp-for="Message"> Message </label>
+                                                <textarea class="form-control" name="Message" asp-for="Message"></textarea>
+                                                <span asp-validation-for="Message" class="text-danger"></span>
+                                    </div><br />
+                                     <div class="text-danger" asp-validation-summary="ModelOnly">
+                                        </div> <br />
                                 </div>
                                 <input type="submit" value="Send Request">
                             </form>
