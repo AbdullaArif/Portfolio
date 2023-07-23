@@ -144,8 +144,8 @@
                         </div>
                     </li>
                     <li class="l-section section">
-                        <div class="hire">
-                            <h2>You want us to do</h2>
+                        <div class="hire1">
+                           <div > <h2>You want us to do</h2>
                             <h3>You want us to do</h3>
                             <ul>
                                 <li>dfdfsd</li>
@@ -160,9 +160,9 @@
                                 <li>sdff</li>
                                 <li>sdff</li>
                                 <li>sdff</li>
-                            </ul><br /><br />
+                            </ul><br /><br /></div>
                             <!-- checkout formspree.io for easy form setup -->
-                          <form class="work-request1" method="post">
+                          <form class="work-request" method="post">
     <div class="work-request1--information">
         <br />
         <div class="information-name1">
@@ -175,17 +175,22 @@
             <label asp-for="Email">Email</label>
             <span asp-validation-for="Email" class="text-danger1"></span>
         </div><br />
-        <div class="information-phone1">
+         <div class="information-email1">
+            <input asp-for="Message">
+            <label asp-for="Message">Message</label>
+            <span asp-validation-for="Message" class="text-danger1"></span>
+        </div><br />
+          <div class="information-email1">
             <input asp-for="Phone">
             <label asp-for="Phone">Phone</label>
             <span asp-validation-for="Phone" class="text-danger1"></span>
         </div><br />
-        <div class="information-message1">
+      @*  <div class="information-message">
             <label asp-for="Message">Message</label>
-            <textarea class="form-control" name="Message" asp-for="Message" placeholder="Project Description"></textarea>
+            <textarea  asp-for="Message" placeholder="Project Description"></textarea>
             <span asp-validation-for="Message" class="text-danger1"></span>
-        </div><br />
-        <div class="text-danger1" asp-validation-summary="ModelOnly"></div><br />
+        </div><br />*@
+        <div class="text-danger" asp-validation-summary="ModelOnly"></div><br />
     </div>
     <input type="submit" value="Send Request">
 </form>
