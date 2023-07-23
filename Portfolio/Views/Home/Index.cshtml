@@ -144,52 +144,43 @@
                         </div>
                     </li>
                     <li class="l-section section">
-                        <div class="hire1">
+                        <div class="hire">
                            <div > <h2>You want us to do</h2>
-                            <h3>You want us to do</h3>
-                            <ul>
+                           
+                            <ul style="display:flex; gap:20px; justify-content:center">
                                 <li>dfdfsd</li>
                                 <li>sdfsdf</li>
                                 <li>dsfsf</li>
                                 <li>sdfsdf</li>
                                 <li>fsdfs</li>
+                                
                             </ul>
-                            <ul>
-                                <li>sdff</li>
-                                <li>sdff</li>
-                                <li>sdff</li>
-                                <li>sdff</li>
-                                <li>sdff</li>
-                            </ul><br /><br /></div>
+                            </div>
                             <!-- checkout formspree.io for easy form setup -->
                           <form class="work-request" method="post">
-    <div class="work-request1--information">
+    <div class="work-request1--information" >
         <br />
         <div class="information-name1">
-            <input asp-for="FullName">
+            <input asp-for="FullName" style="color:black">
             <label asp-for="FullName">Full Name</label>
             <span asp-validation-for="FullName" class="text-danger1"></span>
         </div><br />
         <div class="information-email1">
-            <input asp-for="Email">
+            <input asp-for="Email" style="color:black">
             <label asp-for="Email">Email</label>
             <span asp-validation-for="Email" class="text-danger1"></span>
         </div><br />
-         <div class="information-email1">
-            <input asp-for="Message">
-            <label asp-for="Message">Message</label>
-            <span asp-validation-for="Message" class="text-danger1"></span>
-        </div><br />
+        
           <div class="information-email1">
-            <input asp-for="Phone">
+            <input asp-for="Phone" style="color:black">
             <label asp-for="Phone">Phone</label>
             <span asp-validation-for="Phone" class="text-danger1"></span>
         </div><br />
-      @*  <div class="information-message">
+        <div class="information-message">
             <label asp-for="Message">Message</label>
-            <textarea  asp-for="Message" placeholder="Project Description"></textarea>
+            <textarea style="resize:none;color:black"  asp-for="Message" placeholder="Project Description"></textarea>
             <span asp-validation-for="Message" class="text-danger1"></span>
-        </div><br />*@
+        </div><br />
         <div class="text-danger" asp-validation-summary="ModelOnly"></div><br />
     </div>
     <input type="submit" value="Send Request">
