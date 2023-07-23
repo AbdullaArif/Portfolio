@@ -148,11 +148,14 @@
                            <div > <h2>You want us to do</h2>
                            
                             <ul style="display:flex; gap:20px; justify-content:center">
-                                <li>dfdfsd</li>
-                                <li>sdfsdf</li>
-                                <li>dsfsf</li>
-                                <li>sdfsdf</li>
-                                <li>fsdfs</li>
+                                <li>C#(C-Sharp)</li>
+                                <li>MVC</li>
+                                <li>ASP.NET CORE</li>
+                                <li>MSSQL</li>
+                                <li>CSS</li>
+                                <li>HTML</li>
+                                <li>JS(JavaScript)</li>
+                                <li>Git/GitBash</li>
                                 
                             </ul>
                             </div>
@@ -161,19 +164,22 @@
     <div class="work-request1--information" >
         <br />
         <div class="information-name1">
-            <input asp-for="FullName" style="color:black">
-            <label asp-for="FullName">Full Name</label>
+             <label asp-for="FullName">Full Name</label>
+            <input asp-for="FullName" style="color:black" placeholder="Xxxx Xxxxx">
+           
             <span asp-validation-for="FullName" class="text-danger1"></span>
         </div><br />
         <div class="information-email1">
-            <input asp-for="Email" style="color:black">
             <label asp-for="Email">Email</label>
+            <input asp-for="Email" style="color:black" placeholder="xxxx@xxx.xx">
+            
             <span asp-validation-for="Email" class="text-danger1"></span>
         </div><br />
         
           <div class="information-email1">
+               <label asp-for="Phone">Phone</label>
             <input asp-for="Phone" style="color:black">
-            <label asp-for="Phone">Phone</label>
+           
             <span asp-validation-for="Phone" class="text-danger1"></span>
         </div><br />
         <div class="information-message">
@@ -183,7 +189,7 @@
         </div><br />
         <div class="text-danger" asp-validation-summary="ModelOnly"></div><br />
     </div>
-    <input type="submit" value="Send Request">
+    <input type="submit" asp-controller="home" asp-action="index">
 </form>
                         </div>
                     </li>
