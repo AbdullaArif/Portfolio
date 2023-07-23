@@ -585,6 +585,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\backraundcolor2.png"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\check_menu_checklist.png",
+      "PackagePath": "staticwebassets\\assets\\img\\check_menu_checklist.png"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\contact-visual.png",
       "PackagePath": "staticwebassets\\assets\\img\\contact-visual.png"
     },
@@ -595,6 +599,10 @@
     {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logoP.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logoP.png"
     },
     {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logo_aztu.png",

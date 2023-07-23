@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5550su0HU5yLRNiq1oeTbpYlUXg0gcpKl8J81K1yu+M=",
+  "Hash": "0uokwNjGf937y5/THP2lZ3NHSeEGyvYQKdEvVS9FCDw=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -2499,6 +2499,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\backraundcolor2.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\check_menu_checklist.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "assets/img/check_menu_checklist.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\check_menu_checklist.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\CodeAcedmy1.jpeg",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -2599,6 +2616,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo_aztu1.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\logoP.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "assets/img/logoP.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logoP.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\work-alex-nowak.jpg",
