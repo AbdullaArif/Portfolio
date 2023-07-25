@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0uokwNjGf937y5/THP2lZ3NHSeEGyvYQKdEvVS9FCDw=",
+  "Hash": "MqdcZsNXgpSr/CdITVHgbcnyDVSk90G56tgDbftLr5k=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -712,6 +712,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\admin\\images\\logoP.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "admin/images/logoP.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\images\\logoP.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\admin\\js\\.DS_Store",

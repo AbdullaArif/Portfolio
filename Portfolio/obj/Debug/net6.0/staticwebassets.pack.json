@@ -161,6 +161,10 @@
       "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\admin\\images\\logoP.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logoP.png"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\Portfolio\\Portfolio\\wwwroot\\admin\\js\\.DS_Store",
       "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
     },
