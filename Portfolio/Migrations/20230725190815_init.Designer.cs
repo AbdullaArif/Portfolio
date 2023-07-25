@@ -11,8 +11,8 @@ using Portfolio.DAL;
 namespace Portfolio.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230722213140_Init")]
-    partial class Init
+    [Migration("20230725190815_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
