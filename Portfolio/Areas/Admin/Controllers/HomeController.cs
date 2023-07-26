@@ -1,10 +1,7 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NuGet.Configuration;
 using Portfolio.DAL;
 using Portfolio.Models;
-using System.Data;
 
 namespace Portfolio.Areas.Admin.Controllers
 {
