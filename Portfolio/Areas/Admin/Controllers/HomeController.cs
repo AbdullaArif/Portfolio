@@ -9,7 +9,7 @@ using System.Data;
 namespace Portfolio.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    //[Authorize]
+   
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
