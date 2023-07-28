@@ -20,17 +20,6 @@ namespace Portfolio.Areas.Admin.Controllers
             List<Contact> contacts = await _context.Contacts.ToListAsync();
             return View(contacts);
         }
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id is null || id < 1) return BadRequest();
-
-            Contact contacts = await _context.Contacts.FirstOrDefaultAsync(s => s.Id == id);
-
-            if (contacts is null) return NotFound();
-            _context.Contacts.Remove(contacts);
-            await _context.SaveChangesAsync();
-
-            return RedirectToAction(nameof(Index));
-        }
+       
     }
 }
